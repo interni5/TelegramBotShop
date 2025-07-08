@@ -1,0 +1,45 @@
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/ClientBot
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/ClientBot.deps.json
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/ClientBot.runtimeconfig.json
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/ClientBot.dll
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/ClientBot.pdb
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/bin/Debug/net9.0/Telegram.Bot.dll
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.csproj.AssemblyReference.cache
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.AssemblyInfoInputs.cache
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.AssemblyInfo.cs
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.csproj.CoreCompileInputs.cache
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.csproj.Up2Date
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.dll
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/refint/ClientBot.dll
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.pdb
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ClientBot.genruntimeconfig.cache
+/Users/interni/Desktop/AzrvTelegramBots/ClientBot/obj/Debug/net9.0/ref/ClientBot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\ClientBot.exe
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\ClientBot.deps.json
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\ClientBot.runtimeconfig.json
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\ClientBot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\ClientBot.pdb
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Telegram.Bot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.csproj.AssemblyReference.cache
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.AssemblyInfoInputs.cache
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.AssemblyInfo.cs
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.csproj.CoreCompileInputs.cache
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.csproj.Up2Date
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\refint\ClientBot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.pdb
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ClientBot.genruntimeconfig.cache
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\obj\Debug\net9.0\ref\ClientBot.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\svtsl\OneDrive\Рабочий стол\AzrvTelegramBots\ClientBot\bin\Debug\net9.0\appsettings.json
